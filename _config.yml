@@ -64,6 +64,7 @@ include:
   - .htaccess
   - _pages
   - files
+  - tencent1855324848196253059.txt
 exclude:
   - docs
   - google_scholar_crawler
