@@ -36,7 +36,9 @@ My primary research interests include robot planning and control.</big>
 # 📝 Publications 
 
 <!-- TRO Impact -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">T-RO</div><img src='images/papers/TRO2024_Impact.webp' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">T-RO</div>
+<a href="https://www.youtube.com/watch?v=k_XGQyrNh9I"><img src='images/papers/TRO2024_Impact.webp' alt="sym" width="100%"></a>
+</div></div>
 <div class='paper-box-text' markdown="1">
 [Impact-Aware Planning and Control for Aerial Robots with Suspended Payloads](https://ieeexplore.ieee.org/document/10478625)
 
@@ -55,7 +57,9 @@ In this paper, we propose a novel impact-aware planning and control framework th
 </div>
 
 <!-- RAL-Autotrans -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RA-L</div><img src='images/papers/RAL2023-Autotrans.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RA-L</div>
+<a href="https://www.youtube.com/watch?v=X9g-ivBqy5g"><img src='images/papers/RAL2023-Autotrans.jpg' alt="sym" width="100%"></a>
+</div></div>
 <div class='paper-box-text' markdown="1">
 
 [AutoTrans: A Complete Planning and Control Framework for Autonomous UAV Paylaod Transportation](https://doi.org/10.1109/LRA.2023.3313010)
@@ -75,7 +79,10 @@ In this paper, we propose a novel impact-aware planning and control framework th
 </div>
 
 <!-- IROS 2021 -FAST_DV -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IROS 2021</div><img src='images/papers/IROS2021-FAST_DV.webp' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IROS 2021</div>
+<a href="https://www.youtube.com/watch?v=QPpwppeE_x0">
+<img src='images/papers/IROS2021-FAST_DV.webp' alt="sym" width="100%"></a>
+</div></div>
 <div class='paper-box-text' markdown="1">
 
 [FAST-Dynamic-Vision: Detection and Tracking Dynamic Objects with Event and Depth Sensing](https://doi.org/10.1109/IROS51168.2021.9636448)
@@ -94,7 +101,9 @@ Botao He\*, **Haojia Li**\*, Siyuan Wu, Dong Wang, Zhiwei Zhang, Qianli Dong, Ch
 </div>
 
 <!-- ICRA 2024 FC_planner-->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2024</div><img src='images/papers/ICRA2024-FC_planner.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2024</div>
+<a href="https://www.youtube.com/watch?v=U-X4OddXI88">
+<img src='images/papers/ICRA2024-FC_planner.jpg' alt="sym" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 
 [FC-Planner: A Skeleton-guided Planning Framework for Fast Aerial Coverage of Complex 3D Scenes](https://ieeexplore.ieee.org/document/10610621)
@@ -115,7 +124,9 @@ A skeleton-guided planning framework tailored for fast coverage of large and com
 </div>
 
 <!-- ICRA 2023 PredRecon-->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2023</div><img src='images/papers/ICRA2023-predrecon.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2023</div>
+<a href="https://www.youtube.com/watch?v=ek7yY_FZYAc"><img src='images/papers/ICRA2023-predrecon.jpg' alt="sym" width="100%"></a>
+</div></div>
 <div class='paper-box-text' markdown="1">
 
 [PredRecon: A Prediction-boosted Planning Framework for Fast and High-quality Autonomous Aerial Reconstruction](https://ieeexplore.ieee.org/document/10160933)
@@ -134,7 +145,8 @@ A prediction-boosted planning framework that can efficiently reconstruct high-qu
 
 
 <!-- Science Robotics 2024 - Event camera -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Science: Robotics</div><img src='images/papers/SR2024-eventcam.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Science: Robotics</div>
+<a href="https://www.youtube.com/channel/UC-ppUIm_Ia2HqQkno5A0jog"> <img src='images/papers/SR2024-eventcam.jpg' alt="sym" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Microsaccade-inspired event camera for robotics](https://www.science.org/doi/10.1126/scirobotics.adj8124)
@@ -152,7 +164,9 @@ Botao He, Ze Wang, Yuan Zhou, Jingxi Chen, Chahat Deep Singh, **Haojia Li**, Yum
 
 
 <!-- Science Robotics 2022 - Swarm -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Science: Robotics</div><img src='images/papers/SR2022-Swarm.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Science: Robotics</div>
+<a href="https://www.youtube.com/watch?v=L0fJ0EHHfOA&list=PLa8ny3vRw76nN8ZoaNABTGtB67PXRbBTQ">
+<img src='images/papers/SR2022-Swarm.jpg' alt="sym" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Swarm of micro flying robots in the wild](https://www.science.org/doi/abs/10.1126/scirobotics.abm5954)
@@ -169,7 +183,9 @@ Xin Zhou, Xiangyong Wen, Zhepei Wang, Yuman Gao, **Haojia Li**, Qianhao Wang, Ti
 
 
 <!-- TIM 2022 - Event-VPR -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIM</div><img src='images/papers/TIM2022-EventVPR.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIM</div>
+<a href="https://www.youtube.com/watch?v=pcu1l8Wdc7g">
+<img src='images/papers/TIM2022-EventVPR.png' alt="sym" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Event-VPR: End-to-End Weakly Supervised Deep Network Architecture for Visual Place Recognition Using Event-Based Vision Sensor](https://www.science.org/doi/abs/10.1126/scirobotics.abm5954)
@@ -188,13 +204,13 @@ Delei Kong, Zheng Fang, Kuanxu Hou, **Haojia Li**, Junjie Jiang, Sonya Coleman, 
 
 # 🎖 Honors and Awards
 
-- 2021 Outstanding Graduate in Liaoning Province (**Top 3%**) 
-- 2021 Best Thesis, Northeastern University (**Top 3%**)
-- 2020 National Scholarship, China
-- 2020 President Medal, Northeastern University (Only 10 Persons)
-- 2019 **National 1st Prize** in the National Undergraduate Electronic Design Contest, China
-- 2019 **National 1st Prize** in the National Undergraduate Smart Car Contest, China
-- 2019 National 2nd Prize in the China Robot Competition, China
+- *2021* Outstanding Graduate in Liaoning Province (**Top 3%**) 
+- *2021* Best Thesis, Northeastern University (**Top 3%**)
+- *2020* National Scholarship, China
+- *2020* President Medal, Northeastern University (Only 10 Persons)
+- *2019* **National 1st Prize** in the National Undergraduate Electronic Design Contest, China
+- *2019* **National 1st Prize** in the National Undergraduate Smart Car Contest, China
+- *2019* National 2nd Prize in the China Robot Competition, China
 
 # 📖 Educations
 - *2021.09 - Present*, **Ph.D. Candidate**, Electronic and Computer Engineering (ECE), The Hong Kong University of Science and technology (**HKUST**),  Supervisor: Prof. Shaojie Shen
